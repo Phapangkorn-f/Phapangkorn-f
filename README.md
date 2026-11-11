@@ -1,7 +1,7 @@
 # Hi there, I'm Phapangkorn 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at University of Phayao
+- 🎓 Computer Science Student at **University of Phayao**
 - 💡 Interested in **Cybersecurity, Networking, and Data Analysis**
 - 🎯 Current Goal: To become a Cybersecurity Specialist
 - 💬 Ask me about **Web Development, Networking & Linux**

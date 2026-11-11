@@ -1,10 +1,10 @@
-# Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Phapangkorn 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Cyber security, Network, and Data analysis**
-- 🎯 Current Goal: to be a Cyber security
-- 💬 Ask me about ****
+- 🎓 Computer Science Student at University of Phayao
+- 💡 Interested in **Cybersecurity, Networking, and Data Analysis**
+- 🎯 Current Goal: To become a Cybersecurity Specialist
+- 💬 Ask me about **Web Development, Networking & Linux**
 
 ---
 
@@ -16,7 +16,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)

@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student at **University of Phayao**
 - 💡 Interested in **Cybersecurity, Networking, and Data Analysis**
 - 🎯 Current Goal: To become a Cybersecurity Specialist
-- 💬 Ask me about **Web Development, Networking & Linux**
+- 💬 Ask me about **League of leagends**
 
 ---
 

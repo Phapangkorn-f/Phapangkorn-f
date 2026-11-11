@@ -30,14 +30,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
- 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Phapangkorn-f&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Phapangkorn-f&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
- 
-<br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Phapangkorn-f&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phapangkorn-f&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phapangkorn-f&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---

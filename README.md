@@ -35,9 +35,7 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phapangkorn-f&theme=react-dark&hide_border=true" width="100%" />
-</div>
----
+ <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=Phapangkorn-f&theme=react-dark&hide_border=true" width="100%" />
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)

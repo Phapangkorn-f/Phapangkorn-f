@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Cyber security, Network, and Data analysis**
 - 🎯 Current Goal: to be a Cyber security
-- 💬 Ask me about ** **
+- 💬 Ask me about ****
 
 ---
 
@@ -31,8 +31,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Phapangkorn-f" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phapangkorn-f&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Phapangkorn-f" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phapangkorn-f&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
